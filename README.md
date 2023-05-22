@@ -11,7 +11,6 @@ Contents:
 6. model.pickle - Trained model in pickle file format.
 
 How to use.
-~~~~~~~~~~
 
 1. Make sure the "columns.json" and "model.pickle" file together with the 
 "BhoomiBot.py". 
